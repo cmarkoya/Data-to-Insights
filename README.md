@@ -1,4 +1,4 @@
-##Vision Vocabulary from Financial Times Group
+## Vision Vocabulary from Financial Times Group
 
 https://github.com/cmarkoya/Data-to-Insights/blob/main/Visual%20Vocabulary%20-%20Financial%20Times%20Group.pdf
 
